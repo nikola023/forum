@@ -1,0 +1,27 @@
+.container{
+    display: grid;
+    grid-template-columns: 35% auto 35%;
+    padding: 5px 0px 15px 0px;
+    border-bottom: 1px solid black;
+    margin: 0px 20px;
+}
+
+.container>h1{
+    margin: auto;
+}
+
+    .container>h1:hover{
+    transform: scale(1.1);
+}
+
+.container>h1>a{
+    text-decoration: none;
+}
+
+.container>button{
+    margin:auto;
+}
+
+.container>button>a{
+    text-decoration: none;
+}

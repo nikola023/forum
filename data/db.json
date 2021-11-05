@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "title": "Prvi normalan post",
+      "text": "Ovo je prvi normalan post",
+      "author": "Nikola",
+      "id": 1
+    }
+  ]
+}
